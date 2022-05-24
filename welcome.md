@@ -1,5 +1,6 @@
-
 <center>
+    
+![](https://pystok.org/statics/images/pystok_logo.png)
     
 # Jak efektywnie dzielić się wynikami?
 
@@ -7,8 +8,6 @@
 
 ### (Pystok #50)
     
-![](https://pystok.org/statics/images/pystok_logo.png)
-
 </center>
 
 ➡️ Link do spotkania 👉 <a href="https://pystok.org" target="_blank">pystok.org</a>
