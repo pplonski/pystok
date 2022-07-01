@@ -2,3 +2,4 @@ mljar-mercury>=1.1.0
 bloxs
 matplotlib
 mplfinance
+pandas
