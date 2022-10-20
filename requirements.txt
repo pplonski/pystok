@@ -1,4 +1,4 @@
-mljar-mercury>=1.1.1
+mljar-mercury>=1.1.6
 bloxs
 matplotlib
 mplfinance
